@@ -5,7 +5,7 @@
 
 /**
  *
- * @author cynth
+ * @author Cynth-04
  */
 public class Pelicula {
     String titulo;
